@@ -7,3 +7,8 @@ Untitled.ipynb
 *.xml
 *.proto
 *.rar
+*checkpoint.ipynb
+/ml/compiter_vision/semantic/coco*
+*.png
+*.gz
+*.zip
